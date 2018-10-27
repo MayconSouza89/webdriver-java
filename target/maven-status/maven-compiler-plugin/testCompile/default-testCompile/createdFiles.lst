@@ -1,0 +1,12 @@
+pages\LoginFormPage.class
+tests\CadastrarClienteTest.class
+pages\BasePage.class
+suporte\Generator.class
+pages\LoginPage.class
+pages\SecretaPage.class
+suporte\Screenshot.class
+pages\AddContactPage.class
+suporte\Web.class
+tests\InformacoesUsuarioTest.class
+tests\InformacoesUsuarioPageObjectsTest.class
+pages\MePage.class
